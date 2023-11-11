@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me gusta estar al día con la tecnología y el futuro en general,<br>entender la dirección de las tendencias y poder adaptarme a ello.<br>📒Me interesa la filosofía y la disciplina mental que proporciona.<br>🎦Me gustan los documentales y podcast.<br>📖En mis tiempos libres leo artículos en Quora y Xataka.
+Personalizar mis herramientas de trabajo.
 
 
 ## 🌐 Socials:
