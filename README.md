@@ -1,5 +1,5 @@
 # 💫 About Me:
-Personalizar mis herramientas de trabajo.
+Automate processes and customize software.
 
 
 ## 🌐 Socials:
