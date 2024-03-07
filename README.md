@@ -49,7 +49,7 @@ Visitors:
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py,php,nodejs,express,git,sass,tailwind"/>
   <img src="https://skillicons.dev/icons?i=angular,astro,react,nextjs"/>
   <img width=47 src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg"/>
-  <img src="https://skillicons.dev/icons?i=vscode,github,mysql,jest,vitest,md,vite,netlify,vercel"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,mysql,jest,vitest,md,vite,netlify,vercel,graphql"/>
   <img width=49 src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"/>
   <img width=50 src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
   <img width=39 src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png"/>
