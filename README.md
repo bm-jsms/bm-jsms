@@ -46,7 +46,7 @@ Visitors:
 <h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py,php,nodejs,express,git,sass,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py,php,nodejs,express,git,sass,tailwind,vuejs"/>
   <img src="https://skillicons.dev/icons?i=angular,astro,react,nextjs"/>
   <img width=47 src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg"/>
   <img src="https://skillicons.dev/icons?i=vscode,github,mysql,jest,vitest,md,vite,netlify,vercel,graphql"/>
