@@ -60,7 +60,6 @@ Visitors:
 <h3 align="center">Extra:</h3>
 
 <div align="center">
-  <img width=69 src="https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png"/>
   <img width=43 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png?20220918151013"/>
   <img width=43 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/240px-2023_Obsidian_logo.svg.png"/>
   <img width=42 src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png"/>
