@@ -11,7 +11,7 @@ Visitors:
 </div>
 
 <div>
-   <img src="https://media.licdn.com/dms/image/D4E16AQGR0mXd7DL-WA/profile-displaybackgroundimage-shrink_350_1400/0/1704904332309?e=1715817600&v=beta&t=u1CN5SYAehjHoONrQieG1c3SDTGDZr5LmgLMwAoyMsM"/>
+   <img src="https://media.licdn.com/dms/image/D4E16AQGR0mXd7DL-WA/profile-displaybackgroundimage-shrink_350_1400/0/1704904332309?e=1726704000&v=beta&t=kBRHxui3Aw6eqCC1c5g-xbyVM-X1YygfY7TTioj-JcY"/>
 </div>
 
 <h3 align="center">A passionate Web Developer</h3>
