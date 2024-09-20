@@ -34,7 +34,7 @@ Visitors:
   </a>
 
   <a href="https://www.linkedin.com/in/josu%C3%A9-emaxs-b39a80292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://www.bm-jsms.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner.c8cd4ac6.png&w=1920&q=75" target="_blank" />
   </a>
  
 </div>
