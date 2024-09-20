@@ -36,7 +36,7 @@
  
 <h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <div>
     <h3>🌐 Web 🌐</h3>
     <div align="center" >
