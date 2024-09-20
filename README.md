@@ -79,7 +79,6 @@
     <div align="center" >
       <img src="https://skillicons.dev/icons?i=jest,vitest"/>
       <img width=55 src="https://icon.icepanel.io/Technology/svg/pytest.svg"/>
-      <img width=45 src=""/>
     </div>
   </div>
   <div>
