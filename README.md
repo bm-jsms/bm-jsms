@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/bm-jsms/count.svg)
 
   <a href="https://www.linkedin.com/in/josu%C3%A9-emaxs-b39a80292/" target="_blank">
-        <img src="https://www.bm-jsms.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner.c8cd4ac6.png&w=1920&q=75"/>
+    
   </a>
 </div>
 
